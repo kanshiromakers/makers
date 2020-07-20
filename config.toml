@@ -1,0 +1,4 @@
+baseURL = "https://kanshiromakers.github.io/"
+languageCode = "en-us"
+title = "Kanshiro"
+theme = "archie"
