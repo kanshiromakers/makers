@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kanshiro</title>
-    <link>https://kanshiromakers.github.io/posts/</link>
+    <link>https://kanshiro.com/posts/</link>
     <description>Recent content in Posts on Kanshiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jul 2020 10:35:27 +0800</lastBuildDate>
     
-	<atom:link href="https://kanshiromakers.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kanshiro.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adopting the D.I.Y Culture</title>
-      <link>https://kanshiromakers.github.io/posts/adopting-diy-culture/</link>
+      <link>https://kanshiro.com/posts/adopting-diy-culture/</link>
       <pubDate>Mon, 20 Jul 2020 10:35:27 +0800</pubDate>
       
-      <guid>https://kanshiromakers.github.io/posts/adopting-diy-culture/</guid>
+      <guid>https://kanshiro.com/posts/adopting-diy-culture/</guid>
       <description>For a lot</description>
     </item>
     
